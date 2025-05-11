@@ -1,0 +1,6 @@
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.exe
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.dll
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.deps.json
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.runtimeconfig.json
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.dll.config
+C:\Users\super\source\repos\Aplikacja\Aplikacja\bin\Release\net6.0-windows\publish\Aplikacja.pdb
